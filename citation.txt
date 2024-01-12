@@ -1,0 +1,9 @@
+@inproceedings{REPO021,
+    author = "Bi, Ying and Zhang, Mengjie and Xue, Bing",
+    booktitle = "2018 IEEE Congress on Evolutionary Computation (CEC)",
+    number = "",
+    pages = "1-8",
+    title = "{Genetic Programming for Automatic Global and Local Feature Extraction to Image Classification}",
+    volume = "",
+    year = "2018"
+}
